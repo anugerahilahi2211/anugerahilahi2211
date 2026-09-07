@@ -74,9 +74,9 @@ Embedded control systems, industrial automation, instrumentation, IoT systems, r
 
 ## Contact
 
-**LinkedIn:** `YOUR_LINKEDIN_URL`  
-**Email:** `YOUR_EMAIL`  
-**GitHub:** `https://github.com/YOUR_GITHUB_USERNAME`
+**LinkedIn:** `https://www.linkedin.com/in/anugerah-ilahi-041566415 `  
+**Email:** `anugerahilahi2211@gmail.com`  
+**GitHub:** `https://github.com/anugerahilahi2211`
 
 ---
 
